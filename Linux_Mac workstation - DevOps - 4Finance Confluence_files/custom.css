@@ -1,0 +1,17 @@
+
+.wiki-content,
+.wiki-content p,
+.wiki-content table,
+.wiki-content tr,
+.wiki-content td,
+.wiki-content th,
+.wiki-content ol,
+.wiki-content ul,
+.wiki-content li,
+.wiki-content pre,
+.wiki-content code {
+    font-size: 12px;
+}
+
+
+
